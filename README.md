@@ -1,1 +1,1 @@
-[https://caruxell.com]Caruxell Official Site
+[https://caruxell.com](Official Caruxell Software Site)
