@@ -1,0 +1,20 @@
+{
+  "ourWork": "Proiecte",
+  "content": [
+    {
+      "target": "https://bezole.com",
+      "card": {
+        "title": "Bezole",
+        "description": "- joc educativ în timp real, plin cu întrebări din diverse domenii"
+      }
+    },
+    {
+      "target": "https://plentyschool.com",
+      "card": {
+        "title": "PlentySchool",
+        "description": "- platformă educațională cu jocuri și materiale educative."
+      }
+    }
+  ],
+  "extra": "Stai pe aproape! Mai multe proiecte sunt pe drum!"
+}

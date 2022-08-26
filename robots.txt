@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://www.caruxell.com/sitemap.xml
+Sitemap: https://www.caruxell.com/sitemap-lang.xml

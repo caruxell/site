@@ -1,0 +1,20 @@
+{
+  "ourWork": "Projects",
+  "content": [
+    {
+      "target": "https://bezole.com",
+      "card": {
+        "title": "Bezole",
+        "description": "- real time quiz game, filled with questions from various domains"
+      }
+    },
+    {
+      "target": "https://plentyschool.com",
+      "card": {
+        "title": "PlentySchool",
+        "description": "- educational platform with useful games and materials to help with learning."
+      }
+    }
+  ],
+  "extra": "Stay close! There's more to come!"
+}
